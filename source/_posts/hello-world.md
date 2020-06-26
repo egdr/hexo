@@ -1,6 +1,7 @@
 ---
 title: Hello World
 categories: hexo
+coverImg: /images/2.jpg
 tags:
   - hexo
 ---
